@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Ensure that your main class is `com.tw.step8.ttt.Main`. Tests are expected to be written. The folder structure should be standard with src in `src` and tests in `test`
+Ensure that your main class is `com.tw.step8.ttt.Main`. Tests are expected to be written. The folder structure should be standard with src in `src` and tests in `test`. Do not use any libraries other than JUnit.
 
 ```
 Implement the tic tac toe game.
